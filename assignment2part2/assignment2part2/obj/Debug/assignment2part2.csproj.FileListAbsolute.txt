@@ -1,0 +1,13 @@
+E:\ARCHANA\Prog1780\assignment2part2\assignment2part2\bin\Debug\assignment2part2.exe.config
+E:\ARCHANA\Prog1780\assignment2part2\assignment2part2\obj\Debug\assignment2part2.csprojResolveAssemblyReference.cache
+E:\ARCHANA\Prog1780\assignment2part2\assignment2part2\bin\Debug\assignment2part2.exe
+E:\ARCHANA\Prog1780\assignment2part2\assignment2part2\bin\Debug\assignment2part2.pdb
+E:\ARCHANA\Prog1780\assignment2part2\assignment2part2\obj\Debug\assignment2part2.exe
+E:\ARCHANA\Prog1780\assignment2part2\assignment2part2\obj\Debug\assignment2part2.pdb
+H:\ARCHANA\Level1\Prog1780-C#\assignments\assignment2part2\assignment2part2\bin\Debug\assignment2part2.exe.config
+H:\ARCHANA\Level1\Prog1780-C#\assignments\assignment2part2\assignment2part2\bin\Debug\assignment2part2.exe
+H:\ARCHANA\Level1\Prog1780-C#\assignments\assignment2part2\assignment2part2\bin\Debug\assignment2part2.pdb
+H:\ARCHANA\Level1\Prog1780-C#\assignments\assignment2part2\assignment2part2\obj\Debug\assignment2part2.csprojResolveAssemblyReference.cache
+H:\ARCHANA\Level1\Prog1780-C#\assignments\assignment2part2\assignment2part2\obj\Debug\assignment2part2.csproj.CoreCompileInputs.cache
+H:\ARCHANA\Level1\Prog1780-C#\assignments\assignment2part2\assignment2part2\obj\Debug\assignment2part2.exe
+H:\ARCHANA\Level1\Prog1780-C#\assignments\assignment2part2\assignment2part2\obj\Debug\assignment2part2.pdb
